@@ -1,0 +1,8 @@
+C:\Users\Yenyin\Documents\SharpDevelop Projects\Warung_Kasir\Warung_Kasir\bin\Debug\Warung_Kasir.exe.config
+C:\Users\Yenyin\Documents\SharpDevelop Projects\Warung_Kasir\Warung_Kasir\bin\Debug\Warung_Kasir.exe
+C:\Users\Yenyin\Documents\SharpDevelop Projects\Warung_Kasir\Warung_Kasir\bin\Debug\Warung_Kasir.pdb
+C:\Users\Yenyin\Documents\SharpDevelop Projects\Warung_Kasir\Warung_Kasir\obj\Debug\Warung_Kasir.csprojResolveAssemblyReference.cache
+C:\Users\Yenyin\Documents\SharpDevelop Projects\Warung_Kasir\Warung_Kasir\obj\Debug\Warung_Kasir.MainForm.resources
+C:\Users\Yenyin\Documents\SharpDevelop Projects\Warung_Kasir\Warung_Kasir\obj\Debug\Warung_Kasir.csproj.GenerateResource.Cache
+C:\Users\Yenyin\Documents\SharpDevelop Projects\Warung_Kasir\Warung_Kasir\obj\Debug\Warung_Kasir.exe
+C:\Users\Yenyin\Documents\SharpDevelop Projects\Warung_Kasir\Warung_Kasir\obj\Debug\Warung_Kasir.pdb
